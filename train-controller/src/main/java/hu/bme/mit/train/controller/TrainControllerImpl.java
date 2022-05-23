@@ -39,7 +39,7 @@ public class TrainControllerImpl implements TrainController {
 		if (referenceSpeed > speedLimit) {
 			referenceSpeed = speedLimit;
 		}
-		System.out.println("Train!!!"); 
+		System.out.println("Bus!!!"); 
 	}
 
 	@Override
